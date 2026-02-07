@@ -4,14 +4,14 @@
 ---
 
 ### Project base structure
-
+---
 [Historical Data]
       ↓
 [Train Regression Model]
       ↓
 [Store Baseline Statistics]
       ↓
----------------------------------
+---------------------------
 [New Incoming Data Batch]
       ↓
 [Prediction + Error Analysis]
